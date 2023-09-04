@@ -1,0 +1,17 @@
+.custom-navbar {
+  background-color: rgb(3, 39, 3);
+}
+
+.custom-navbar a {
+  color: lightgreen;
+  transition: color 0.3s; 
+}
+
+
+.custom-navbar a:hover {
+  color: darkgreen; 
+}
+body {
+  
+  background: linear-gradient(to bottom, rgb(3, 39, 3), lightgreen);
+}
